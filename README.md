@@ -1,5 +1,5 @@
 <h3 align="center">  
-  42 Piscine Projects that i have done at the piscine.
+  42 Piscine Projects that i have done at the piscine
 </h3>
 <table align="center">
 <tr>
